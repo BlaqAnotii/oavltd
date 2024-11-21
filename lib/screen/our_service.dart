@@ -731,7 +731,7 @@ double _scrollPosition = 0;
                               right: 20,
                             ),
                             child: Text(
-                              'We operate poultry and catfish farms, providing fresh, high-quality chicken and fish products.',
+                              'We operate poultry and catfish farms, providing fresh, high-quality chicken and fish products',
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                   fontFamily: 'CH',
