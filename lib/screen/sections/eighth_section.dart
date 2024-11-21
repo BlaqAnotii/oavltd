@@ -120,7 +120,7 @@ class _EighthSectionState extends State<EighthSection>
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(200),
                     child: Image.asset(
-                      'assets/images/profile.jpg',
+                      'assets/images/comm.jpg',
                       height: 300,
                     ),
                   ),
