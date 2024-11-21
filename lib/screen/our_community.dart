@@ -642,7 +642,7 @@ ResponsiveWidget.isSmallScreen(context)
           ),
         
         const SizedBox(
-          height: 100,
+          height: 100.0,
         ),
         const BottomBar(),
       ],
